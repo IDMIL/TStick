@@ -1,19 +1,15 @@
 {
-    "device": "T-Stick_SN_299",
+    "id": 193,
+    "type": "SN", 
     "author": "IDMIL",
-    "nickname": "green",
+    "color": "Red",
     "APpasswd": "mappings",
     "lastConnectedNetwork": "tstick_network",
     "lastStoredPsk": "mappings",
-    "id": 200,
-    "firmware": 19101,
-    "oscIP": "192.168.1.143",
+    "firmware": 19111,
+    "oscIP": "192.168.1.107",
     "oscPORT": 8000,
-    "FSRcalibration": 0,
-    "FSRcalibrationValues": [
-        0,
-        4095
-    ],
+    "FSRoffset": 0,
     "touchMask": [
         255,
         255
